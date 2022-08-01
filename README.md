@@ -24,4 +24,4 @@ jspdf.onload = function () {
     pdf.save("Exported_File.pdf");
 };
 jspdf.src = 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.debug.js';
-document.body.appendChild(jspdf); ```
+document.body.appendChild(jspdf); 
